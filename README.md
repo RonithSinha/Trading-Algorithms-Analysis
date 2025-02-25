@@ -1,5 +1,5 @@
 # Trading Algorithms analysis
-These projects analyses multiple trading algorithms which give useful insights on the Indian and American stock markets.
+These projects analyse multiple trading algorithms which give useful insights on the Indian and American stock markets.
 
 ## TradingView (PineScript)
 
